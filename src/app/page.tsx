@@ -33,7 +33,7 @@ export default function Home() {
 
   return (
     <div>
-      <h1>"Amazon DST" SP-API Authorization Page</h1>
+      <h1>Amazon DST SP-API Authorization Page</h1>
       <Link href="https://sellercentral.amazon.co.jp/apps/authorize/consent?application_id=amzn1.sp.solution.4f4d0d53-3b9a-4158-88ec-c2118bafc164" legacyBehavior>
         <a target="_blank">Amazon SP-API アクセス権限設定</a>
       </Link>
